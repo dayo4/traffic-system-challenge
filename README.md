@@ -2,7 +2,7 @@
 
 # Demo
 
-You can check out the live web app [here](https://blu-bankdash.netlify.app) or see some screenshots below:
+You can check out the live web app [here](https://traffic-sys.netlify.app) or see some screenshots below:
 
 ![ Screenshot 1](src/assets/s1.png)
 
