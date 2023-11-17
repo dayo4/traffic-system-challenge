@@ -1,4 +1,4 @@
-# A Banking Dashboard Page Template
+# A Traffic System Challenge Template
 
 # Demo
 
@@ -13,8 +13,6 @@ Here are a few of the technologies and tools used:
 
 - **Front-end Framework**: React.js
 - **Styling**: Tailwind CSS,
-- **State Management**: Redux 
-
 
 # Getting Started 
 

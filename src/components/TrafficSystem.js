@@ -26,10 +26,10 @@ export default function TrafficSystem() {
           setYellow(true);
           timer.current = setTimeout(() => {
             toggleLights();
-          }, 2000);
-        }, 2000);
-      }, 2000);
-    }, 2000);
+          }, 5000);
+        }, 5000);
+      }, 5000);
+    }, 5000);
   };
 
   const start = () => {
